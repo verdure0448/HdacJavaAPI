@@ -1,0 +1,6 @@
+com.hdactech.command
+com.hdactech.command.builders
+com.hdactech.command.tools
+com.hdactech.object
+com.hdactech.object.formatters
+com.hdactech.object.queryobjects
